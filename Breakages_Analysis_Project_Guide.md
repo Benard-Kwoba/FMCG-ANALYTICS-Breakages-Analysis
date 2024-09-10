@@ -41,6 +41,8 @@ Objective: Compile the findings into a summary report for management.
 Tasks:
 Draft an executive summary based on the analysis.
 Prepare and format the final report.
+
+
 Project Questions and Expected Outputs
 
 Yearly Comparison of Breakages and Costs
