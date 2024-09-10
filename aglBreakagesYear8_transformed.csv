@@ -140,7 +140,7 @@ Date,Code,Description,Quantity_Cases,Total_Cost,Breakages_Cause,Responsible_Cate
 2024-06-05,696894,Guinness FES    500ml RET 25X01,0.16,476.87,Loading,Loaders,New Warehouse,A,DAY,12072,2024,6
 2024-06-04,726668,Tusker Cdr in B 500ml RET 25X01 LOCAL,0.04,141.5,PVC,Loaders,New Warehouse,B,DAY,12070,2024,6
 2024-06-06,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,12076,2024,6
-2024-06-01,704768,Tusker Lite     330ml RET 25X01 EXP,13.0,22284.31,PVC,Loader,Old Warehouse,C,DAY,12410,2024,6
+2024-06-01,704768,Tusker Lite     330ml RET 25X01 EXP,13.0,22284.31,PVC,Loaders,Old Warehouse,C,DAY,12410,2024,6
 2024-06-07,762947,White Cap Lager 500ml RET 25X01,0.36,833.56,Loading,Forklift,New Warehouse,A,NIGHT,12080,2024,6
 2024-06-09,762947,White Cap Lager 500ml RET 25X01,1.56,3612.09,Loading,Forklift,New Warehouse,A,OFF,12083,2024,6
 2024-06-12,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.04,92.6,Loading,Forklift,New Warehouse,A,DAY,12089,2024,6
