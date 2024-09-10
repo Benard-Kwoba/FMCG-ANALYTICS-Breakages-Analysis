@@ -11,6 +11,8 @@ from datetime import datetime
 def parse_date(date_str):
     return datetime.strptime(date_str, '%m/%d/%Y').date()
 
+# update shifts based on shift pattern of AGL(2 days night, 2 off, 2 day - cycle)
+# On 2024, 4, 30 & 2024, 5, 1; shift A was day, B night, C off
 def get_shift(selected_date):
     shifts = ['A', 'B', 'C']
     shift_day_types = []
@@ -99,9 +101,4 @@ data['Month'] = data['Date'].dt.month
 
 # Save the transformed data to a new CSV
 data.to_csv('aglBreakagesYear8_transformed.csv', index=False)  #  index=False: exclude the index from the output CSV file
-
-
-
-
-
 
