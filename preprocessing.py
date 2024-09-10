@@ -98,6 +98,11 @@ print(data.describe(include='all', datetime_is_numeric=True))  #  datetime_is_nu
 # Add 'Year' and 'Month' columns
 data['Year'] = data['Date'].dt.year
 data['Month'] = data['Date'].dt.month
+# Filter data for 2024
+data_2024 = data[data['Date'].dt.year == 2024]
+# You can remove extra spaces in Description column Make an explicit copy of the data_2024 DataFrame
+data_2024 = data_2024.copy()
+data_2024.loc[:, 'Description'] = data_2024['Description'].str.replace(r'\s+', ' ', regex=True).str.strip()
 
 # Save the transformed data to a new CSV
 data.to_csv('aglBreakagesYear8_transformed.csv', index=False)  #  index=False: exclude the index from the output CSV file
