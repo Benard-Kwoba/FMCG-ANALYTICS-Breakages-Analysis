@@ -19,3 +19,7 @@ Question: How do the breakages compare across different responsible categories, 
 Expected Output:
 Comparative analysis of breakages by responsible category, warehouse, shift, and shift category for both 2023 and 2024.
 Visualizations such as grouped bar charts or heatmaps showing breakages and costs by each category.
+5. Executive Summary for Management
+Question: Provide an executive summary to be used by management in decision-making.
+Expected Output:
+A concise summary of the key findings from the analysis, including major trends, insights, and recommendations for improving supply chain processes and reducing breakage costs.
