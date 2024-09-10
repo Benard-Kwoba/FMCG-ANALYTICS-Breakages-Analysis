@@ -1,4 +1,4 @@
-PROJECT STEPS:
+# PROJECT STEPS:
 
 Load and Inspect the Data
 Objective: Load the CSV file into a DataFrame and inspect its structure to understand the data.
