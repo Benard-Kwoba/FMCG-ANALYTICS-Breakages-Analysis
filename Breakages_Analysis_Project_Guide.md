@@ -10,24 +10,25 @@ Tasks:
 Convert date columns to datetime format.
 Remove any leading or trailing whitespaces from column names.
 Handle missing values or incorrect data entries.
-3. Data Transformation
+Convert columns with numerics data having thousand seperators e.g Total_Cost column to General format in excel(Format Cells)
+4. Data Transformation
 Objective: Prepare the data for analysis by creating necessary aggregates and transformations.
 Tasks:
 Add columns or transform existing ones as needed (e.g., shift categories, year and month columns).
-4. Data Analysis
+5. Data Analysis
 Objective: Perform the required analyses based on the project questions.
 Tasks:
 Compare total breakages and costs for 2023 and 2024.
 Identify the products with the highest breakages.
 Determine the leading causes of breakages.
 Compare breakages across different categories (responsible categories, warehouses, shifts, etc.).
-5. Visualization
+6. Visualization
 Objective: Create visualizations to represent the analysis results.
 Tasks:
 Generate plots for yearly comparisons.
 Create charts for top products and breakage causes.
 Visualize breakages by category, warehouse, shift, etc.
-6. Summary and Reporting
+7. Summary and Reporting
 Objective: Compile the findings into a summary report for management.
 Tasks:
 Draft an executive summary based on the analysis.
