@@ -37,7 +37,7 @@ Visualize breakages by category, warehouse, shift, etc.
 
 
 
-SUMMARY AND REPORTING
+# SUMMARY AND REPORTING
 
 Objective: Compile the findings into a summary report for management.
 Tasks:
