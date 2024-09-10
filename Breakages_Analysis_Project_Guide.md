@@ -25,6 +25,8 @@ Tasks:
 Identify the products with the highest breakages for 2024
 Determine the leading causes of breakages for 2024.
 Compare breakages across different categories (responsible categories, warehouses, shifts, etc.) for 2024.
+Perform predictive analytics for the next three months
+
 
 Visualization
 Objective: Create visualizations to represent the analysis results.
