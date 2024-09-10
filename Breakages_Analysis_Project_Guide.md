@@ -22,8 +22,7 @@ Add columns or transform existing ones as needed (e.g., shift categories, year, 
 Data Analysis
 Objective: Perform the required analyses based on the project questions.
 Tasks:
-Compare total breakages and costs for 2024.
-Identify the products with the highest breakages for 2024.
+Identify the products with the highest breakages for 2024
 Determine the leading causes of breakages for 2024.
 Compare breakages across different categories (responsible categories, warehouses, shifts, etc.) for 2024.
 
