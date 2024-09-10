@@ -3,7 +3,7 @@
 I’m Benard Kwoba, a seasoned Supply Chain Analyst and Inventory Governor with expertise in advanced data analytics and process optimization. I specialize in using Python, SQL, and advanced Excel to enhance supply chain efficiency and inventory accuracy. With a proven track record in developing applications, automating processes, and providing actionable business insights, I excel in improving operational performance and ensuring compliance. My skills also extend to business intelligence with Power BI and data reconciliation, making me adept at driving data-driven decision-making and process improvements.
 
 # FMCG-ANALYTICS-Breakages-Analysis
-This repository contains the code and data for analyzing beer breakages at Kenya Breweries Limited (KBL) for the years 2023 and 2024. The analysis focuses on comparing breakages, costs, and operational factors such as responsible categories, warehouses, and shifts.
+This repository contains the code and data for analyzing beer breakages at Kenya Breweries Limited (KBL) for the year 2024. The analysis focuses on comparing breakages, costs, and operational factors such as responsible categories, warehouses, and shifts.
 
 
 ## 🌐 Socials:
