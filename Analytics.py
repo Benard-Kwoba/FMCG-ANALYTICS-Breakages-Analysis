@@ -7,6 +7,7 @@ import seaborn as sns          # For enhanced data visualization
 import chardet                 # For detecting file encoding
 from datetime import datetime  # For handling date and time operations
 from scipy import stats # For statistical analysis
+from sklearn.linear_model import LinearRegression  # for predictive analytics
 
 """ _________ 4.  Data Analysis: Identify the products with the highest breakages for 2024. ________________________ """
 # Load the CSV file; change accordingly to reflect your file path
@@ -202,10 +203,67 @@ plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
 
 # Show plot
 plt.tight_layout()
-plt.show()
+# plt.show()
 # Display the results:
 # print("Breakages by Shift for 2024:")
 # print(breakages_by_shift)
 
+""" _________________ 4.5 Predictive Analytics  ________________________ """
+# Sample breakages data (assuming you have a DataFrame named data_2024)
+# Ensure 'Date' is a datetime column
+data_2024['Date'] = pd.to_datetime(data_2024['Date'])
 
+# Extract month and year
+data_2024['Month_Year'] = data_2024['Date'].dt.to_period('M')
 
+# Aggregate monthly breakages
+monthly_breakages = data_2024.groupby('Month_Year')['Quantity_Cases'].sum().reset_index()
+
+# Convert Month_Year to datetime for plotting
+monthly_breakages['Month_Year'] = monthly_breakages['Month_Year'].dt.to_timestamp()
+
+# Prepare data for forecasting
+monthly_breakages['Month_Year_Num'] = np.arange(len(monthly_breakages))  # Numeric representation for months
+
+# Fit a linear regression model
+model = LinearRegression()
+X = monthly_breakages[['Month_Year_Num']]
+y = monthly_breakages['Quantity_Cases']
+model.fit(X, y)
+
+# Forecast the next 3 months
+last_month_num = len(monthly_breakages)
+future_months = pd.date_range(start=monthly_breakages['Month_Year'].max() + pd.DateOffset(months=1), periods=3, freq='M')
+future_months_num = np.arange(last_month_num, last_month_num + 3).reshape(-1, 1)
+future_forecast = model.predict(future_months_num)
+
+# Convert future months to DataFrame for plotting
+future_forecast_df = pd.DataFrame({
+    'Month_Year': future_months,
+    'Quantity_Cases': future_forecast
+})
+
+# Create the plot
+plt.figure(figsize=(14, 7))
+
+# Plot historical data
+plt.plot(monthly_breakages['Month_Year'], monthly_breakages['Quantity_Cases'], marker='o', color='b', label='Monthly Breakages')
+
+# Plot forecast data
+plt.plot(future_forecast_df['Month_Year'], future_forecast_df['Quantity_Cases'], marker='o', linestyle='--', color='r', label='Forecast')
+
+# Annotate forecast values
+for i, (month, forecast) in enumerate(zip(future_forecast_df['Month_Year'], future_forecast_df['Quantity_Cases'])):
+    plt.text(month, forecast, f'{forecast:.2f}', color='r', fontsize=10, ha='center')
+
+# Customize plot
+plt.xlabel('Month', c='blue', style='italic')
+plt.ylabel('Quantity Cases', c='blue', style='italic')
+plt.title('Monthly Breakages Trend with 3-Month Forecast', c='blue', weight='bold')
+plt.xticks(rotation=45)
+plt.legend()
+plt.grid(True)
+plt.tight_layout()
+
+# Show plot
+plt.show()
