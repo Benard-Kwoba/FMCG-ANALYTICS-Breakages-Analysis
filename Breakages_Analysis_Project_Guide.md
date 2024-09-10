@@ -1,4 +1,4 @@
-Project Steps
+PROJECT STEPS:
 
 Load and Inspect the Data
 Objective: Load the CSV file into a DataFrame and inspect its structure to understand the data.
@@ -36,7 +36,7 @@ Visualize breakages by category, warehouse, shift, etc.
 
 
 
-Summary and Reporting
+SUMMARY AND REPORTING
 
 Objective: Compile the findings into a summary report for management.
 Tasks:
