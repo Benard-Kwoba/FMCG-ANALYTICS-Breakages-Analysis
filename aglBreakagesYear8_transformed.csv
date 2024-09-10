@@ -1,0 +1,257 @@
+Date,Code,Description,Quantity_Cases,Total_Cost,Breakages_Cause,Responsible_Category,Location,Shift,Category,Document_Reference,Year,Month
+2023-07-14,762947,White Cap Lager 500ml RET 25X01,0.32,740.94,Loading,Loaders,New Warehouse,A,NIGHT,10986,2023,7
+2023-07-23,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.08,2488.92,Unstacking,Forklift,New Warehouse,A,DAY,10997,2023,7
+2023-08-14,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.64,1474.92,Loading,Loaders,New Warehouse,C,NIGHT,9617,2023,8
+2023-08-13,696894,Guinness FES    500ml RET 25X01,0.04,119.22,Loading,Loaders,New Warehouse,A,NIGHT,9620,2023,8
+2023-08-14,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.92,2129.73,Loading,Forklift,Old Warehouse,B,DAY,9419,2023,8
+2023-08-14,663869,Tusker Lite     330ml RET 25X01 LITE,6.0,10466.41,Loading,Forklift,New Warehouse,B,DAY,9621,2023,8
+2023-08-17,703125,Tusker In Bottl 500ml RET 25X01 EXP,1.0,2346.26,Loading,Loaders,Old Warehouse,A,DAY,9418,2023,8
+2023-08-17,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.28,656.95,Loading,Loaders,Old Warehouse,B,NIGHT,9420,2023,8
+2023-08-19,696894,Guinness FES    500ml RET 25X01,0.24,715.3,Loading,Loaders,New Warehouse,A,NIGHT,9625,2023,8
+2023-08-18,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.24,555.58,Loading,Loaders,New Warehouse,A,NIGHT,9624,2023,8
+2023-08-20,762947,White Cap Lager 500ml RET 25X01,0.6,1389.27,Loading,Loaders,New Warehouse,B,DAY,9628,2023,8
+2023-08-21,696894,Guinness FES    500ml RET 25X01,2.32,6914.56,Shunting,Forklift,Old Warehouse,B,DAY,9424,2023,8
+2023-08-25,677573,Pilsner Lager I 500ml RET 25X01 BOLD,0.28,655.63,Loading,Loaders,New Warehouse,A,NIGHT,9629,2023,8
+2023-08-25,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.04,92.18,Loading,Loaders,New Warehouse,A,NIGHT,9631,2023,8
+2023-08-25,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.08,184.36,Loading,Loaders,New Warehouse,A,NIGHT,9633,2023,8
+2023-08-30,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,PVC,Loaders,New Warehouse,A,NIGHT,9632,2023,8
+2023-08-31,642754,Tusker Malt In  330ml RET 25X01 local,0.04,72.4,Loading,Loaders,New Warehouse,A,NIGHT,9638,2023,8
+2023-08-30,681232,Balozi Lager    500ml RET 25X01 LOCAL,2.24,5162.21,Loading,Forklift,New Warehouse,A,NIGHT,9636,2023,8
+2023-08-30,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.4,938.51,Loading,Forklift,New Warehouse,A,NIGHT,9426,2023,8
+2023-08-30,681232,Balozi Lager    500ml RET 25X01 LOCAL,2.0,4609.12,Loading,Forklift,New Warehouse,A,NIGHT,9427,2023,8
+2023-05-09,672403,Tusker In Can   500ml CAN 24X01,0.08,253.82,Loading,Loaders,New Warehouse,C,DAY,9641,2023,5
+2023-01-10,696894,Guinness FES    500ml RET 25X01,0.76,2265.11,Shunting,Forklift,Old Warehouse,C,NIGHT,9458,2023,1
+2023-02-10,642754,Tusker Malt In  330ml RET 25X01 local,0.04,72.4,Loading,Loaders,New Warehouse,C,NIGHT,9681,2023,2
+2023-03-10,696894,Guinness FES    500ml RET 25X01,0.88,2622.76,Shunting,Forklift,Old Warehouse,A,NIGHT,9459,2023,3
+2023-04-10,696894,Guinness FES    500ml RET 25X01,0.2,596.08,Loading,Loaders,New Warehouse,A,OFF,9683,2023,4
+2023-05-10,696894,Guinness FES    500ml RET 25X01,0.28,834.52,Loading,Loaders,New Warehouse,C,NIGHT,9686,2023,5
+2023-07-10,704768,Tusker Lite     330ml RET 25X01 EXP,0.44,754.24,Loading,Loaders,Old Warehouse,B,DAY,9462,2023,7
+2023-08-10,762947,White Cap Lager 500ml RET 25X01,0.44,1018.8,Shunting,Forklift,Old Warehouse,C,OFF,9463,2023,8
+2023-06-10,762947,White Cap Lager 500ml RET 25X01,1.12,2593.3,Offloading,Forklift,New Warehouse,C,NIGHT,9687,2023,6
+2023-01-11,672362,Pilsner Lager I 500ml CAN 24X01,0.17,500.43,Sorting,Forklift,Old Warehouse,C,NIGHT,9491,2023,1
+2023-03-11,681232,Balozi LB       500ml RET 25X01 LOCAL,0.28,645.28,Shunting,Loaders,Isanda,C,NIGHT,1254,2023,3
+2023-05-11,696894,Guinness FES    500ml RET 25X01,0.64,1907.46,Loading,Forklift,New Warehouse,A,OFF,11608,2023,5
+2023-05-11,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,C,NIGHT,11607,2023,5
+2023-04-11,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,1.6,3703.87,Loading,Loaders,New Warehouse,C,NIGHT,11605,2023,4
+2023-02-11,762947,White Cap Lager 500ml RET 25X01,7.0,16208.11,Forklift,Forklift,New Warehouse,A,DAY,11606,2023,2
+2023-07-11,762947,White Cap Lager 500ml RET 25X01,0.24,555.71,Shunting,Forklift,Old Warehouse,C,OFF,9494,2023,7
+2023-08-11,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.56,1296.36,Loading,Forklift,Old Warehouse,B,NIGHT,9497,2023,8
+2023-08-11,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.8,1851.94,Loading,Forklift,Old Warehouse,B,NIGHT,9497,2023,8
+2023-01-12,677573,Pilsner Lager I 500ml RET 25X01 BOLD,0.04,93.66,PVC,Loaders,New Warehouse,C,OFF,11641,2023,1
+2023-02-12,677573,Pilsner Lager I 500ml RET 25X01 BOLD,0.08,187.32,Loading,Loaders,New Warehouse,A,DAY,11642,2023,2
+2023-02-12,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.04,92.6,Loading,Loaders,New Warehouse,A,DAY,11643,2023,2
+2023-02-12,762947,White Cap Lager 500ml RET 25X01,0.04,92.62,Loading,Loaders,New Warehouse,A,DAY,11643,2023,2
+2023-02-12,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.16,368.73,Housekeeping,Sorters,New Warehouse,B,NIGHT,11644,2023,2
+2023-02-12,672279,Alvaro Pnapple  330ml CAN 24X01,0.25,572.45,Housekeeping,Sorters,New Warehouse,B,NIGHT,11644,2023,2
+2023-05-12,696894,Guinness FES    500ml RET 25X01,2.0,5960.82,Loading,Forklift,New Warehouse,C,OFF,11646,2023,5
+2023-07-12,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.52,1198.37,Loading,Forklift,New Warehouse,C,OFF,11648,2023,7
+2023-08-12,680777,Tusker In Can   500ml CAN 24X01 DEFCO,0.13,376.23,Loading,Loaders,New Warehouse,A,NIGHT,11649,2023,8
+2023-08-12,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.12,277.79,Loading,Loaders,Old Warehouse,A,NIGHT,11415,2023,8
+2024-04-01,663869,Tusker Lite     330ml RET 25X01 LITE,0.24,418.66,Loading,Loaders,New Warehouse,C,OFF,11440,2024,4
+2024-04-01,782264,Tusker Ndimu 25 300ml RET 25X01 RET,0.12,204.74,Loading,Forklift,New Warehouse,C,OFF,11673,2024,4
+2024-06-01,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.24,563.1,Loading,Loaders,Old Warehouse,C,DAY,11445,2024,6
+2024-01-10,696894,Guinness FES    500ml RET 25X01,0.04,119.22,Loading,Loaders,New Warehouse,C,DAY,11676,2024,1
+2024-01-10,762947,White Cap Lager 500ml RET 25X01,1.4,3241.62,Loading,Loaders,New Warehouse,C,DAY,11677,2024,1
+2024-01-10,726668,Tusker Cdr in B 500ml RET 25X01 LOCAL,1.92,6791.82,Loading,Forklift,Old Warehouse,A,NIGHT,11444,2024,1
+2024-01-10,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.16,370.39,Loading,Loaders,Old Warehouse,A,NIGHT,11450,2024,1
+2024-01-11,758963,Guin Smth Btl   500ml RET 25X01,0.04,113.43,PVC,Loaders,New Warehouse,B,DAY,11678,2024,1
+2024-01-13,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.44,1014.01,Loading,Forklift,New Warehouse,B,NIGHT,11680,2024,1
+2024-01-15,696894,Guinness FES    500ml RET 25X01,0.52,1549.81,Shunting,Forklift,New Warehouse,B,OFF,11442,2024,1
+2024-01-16,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,NIGHT,11682,2024,1
+2024-01-22,762947,White Cap Lager 500ml RET 25X01,1.44,3334.24,Loading,Forklift,Old Warehouse,A,NIGHT,11451,2024,1
+2024-01-26,762947,White Cap Lager 500ml RET 25X01,6.68,15467.17,Loading,Forklift,Old Warehouse,A,DAY,11452,2024,1
+2024-01-29,762947,White Cap Lager 500ml RET 25X01,0.24,555.71,Loading,Loaders,New Warehouse,C,NIGHT,11685,2024,1
+2024-01-30,762947,White Cap Lager 500ml RET 25X01,0.12,277.85,Loading,Loaders,New Warehouse,B,DAY,11688,2024,1
+2024-01-31,642754,Tusker Malt In  330ml RET 25X01 local,0.04,72.4,PVC,Loaders,New Warehouse,B,NIGHT,11689,2024,1
+2024-02-03,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.0,2304.56,Loading,Loaders,New Warehouse,A,NIGHT,11690,2024,2
+2024-02-05,716077,Allsopps Lager  500ml RET 25X01 SHEEN,0.4,928.8,Loading,Forklift,Isanda,A,OFF,1270,2024,2
+2024-02-07,663869,Tusker Lite     330ml RET 25X01 LITE,0.16,279.1,Loading,Loaders,New Warehouse,B,NIGHT,11691,2024,2
+2024-02-09,762947,White Cap Lager 500ml RET 25X01,0.28,648.32,Offloading,Forklift,New Warehouse,C,DAY,11694,2024,2
+2024-02-09,762947,White Cap Lager 500ml RET 25X01,0.32,740.94,Offloading,Forklift,New Warehouse,C,DAY,11700,2024,2
+2024-02-13,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,11695,2024,2
+2024-02-13,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.28,648.18,PVC,Loaders,New Warehouse,A,DAY,11695,2024,2
+2024-02-18,642754,Tusker Malt In  330ml RET 25X01 local,0.2,362.01,PVC,Loaders,New Warehouse,A,DAY,11698,2024,2
+2024-02-18,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.12,281.55,Loading,Loaders,Old Warehouse,B,NIGHT,11459,2024,2
+2024-02-16,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,C,NIGHT,11696,2024,2
+2024-02-22,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.16,375.4,Loading,Loaders,Old Warehouse,C,NIGHT,11461,2024,2
+2024-02-22,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.28,656.95,Loading,Loaders,Old Warehouse,C,NIGHT,11460,2024,2
+2024-02-21,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,C,DAY,12003,2024,2
+2024-02-26,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.08,185.19,Loading,Loaders,New Warehouse,A,NIGHT,12006,2024,2
+2024-02-27,663869,Tusker Lite     330ml RET 25X01 LITE,0.44,767.54,Offloading,Loaders,New Warehouse,C,DAY,12007,2024,2
+2024-02-27,696894,Guinness FES    500ml RET 25X01,0.28,834.52,Loading,Loaders,New Warehouse,C,DAY,12008,2024,2
+2024-02-27,663869,Tusker Lite     330ml RET 25X01 LITE,0.4,697.76,Offloading,Forklift,New Warehouse,C,DAY,12010,2024,2
+2024-02-28,762947,White Cap Lager 500ml RET 25X01,0.4,926.18,Loading,Loaders,New Warehouse,C,NIGHT,12012,2024,2
+2024-02-28,696894,Guinness FES    500ml RET 25X01,11.0,32784.54,Offloading,Forklift,New Warehouse,B,DAY,12011,2024,2
+2024-03-04,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.6,1388.95,Shunting,Forklift,Old Warehouse,C,DAY,11466,2024,3
+2024-03-04,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.4,925.97,Shunting,Forklift,Old Warehouse,C,DAY,11465,2024,3
+2024-03-04,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.24,563.1,Shunting,Forklift,Old Warehouse,C,DAY,11467,2024,3
+2024-03-06,703125,Tusker In Bottl 500ml RET 25X01 EXP,1.44,3378.62,Loading,Forklift,Old Warehouse,C,NIGHT,11468,2024,3
+2024-03-08,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,PVC,Loaders,New Warehouse,A,DAY,12017,2024,3
+2024-03-08,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,12018,2024,3
+2024-03-08,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.16,375.4,Loading,Loaders,Old Warehouse,A,DAY,11470,2024,3
+2024-03-08,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,PVC,Loaders,Old Warehouse,A,DAY,11469,2024,3
+2024-03-10,677573,Pilsner Lager I 500ml RET 25X01 BOLD,0.04,93.66,Sorting,Loaders,New Warehouse,A,NIGHT,12019,2024,3
+2024-03-10,696894,Guinness FES    500ml RET 25X01,1.0,2980.41,Loading,Forklift,New Warehouse,A,NIGHT,12022,2024,3
+2024-03-10,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.04,92.6,Loading,Loaders,New Warehouse,A,NIGHT,12021,2024,3
+2024-03-10,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,Loading,Loaders,New Warehouse,A,NIGHT,12021,2024,3
+2024-03-11,696894,Guinness FES    500ml RET 25X01,0.56,1669.03,Loading,Loaders,New Warehouse,C,NIGHT,12023,2024,3
+2024-03-11,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.52,1198.37,Loading,Forklift,New Warehouse,C,NIGHT,12026,2024,3
+2024-03-12,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.24,563.1,Loading,Loaders,Old Warehouse,C,NIGHT,11474,2024,3
+2024-03-12,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.08,184.36,Offloading,Forklift,New Warehouse,C,NIGHT,12030,2024,3
+2024-03-12,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.56,1290.55,Offloading,Forklift,New Warehouse,C,NIGHT,12033,2024,3
+2024-03-14,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,Old Warehouse,A,DAY,11477,2024,3
+2024-03-14,762947,White Cap Lager 500ml RET 25X01,1.08,2500.68,Collapsing Load,Forklift,Old Warehouse,A,DAY,11479,2024,3
+2024-03-15,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,NIGHT,12025,2024,3
+2024-03-21,696894,Guinness FES    500ml RET 25X01,0.04,119.22,PVC,Loaders,New Warehouse,C,DAY,12034,2024,3
+2024-03-23,762947,White Cap Lager 500ml RET 25X01,0.04,92.62,PVC,Loaders,New Warehouse,C,NIGHT,12028,2024,3
+2024-03-25,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,PVC,Loaders,New Warehouse,A,DAY,12031,2024,3
+2024-03-30,663869,Tusker Lite     330ml RET 25X01 LITE,2.12,3698.13,PVC,Loaders,New Warehouse,B,DAY,12039,2024,3
+2024-04-04,663869,Tusker Lite     330ml RET 25X01 LITE,0.08,139.55,PVC,Loaders,New Warehouse,B,DAY,12027,2024,4
+2024-04-05,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.04,92.18,PVC,Loaders,New Warehouse,B,DAY,12041,2024,4
+2024-04-05,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,B,DAY,12041,2024,4
+2024-04-06,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.48,1111.16,Loading,Loaders,Old Warehouse,A,DAY,11483,2024,4
+2024-03-10,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,1.4,3240.89,Loading,Forklift,Old Warehouse,C,DAY,11446,2024,3
+2024-03-26,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.04,92.18,PVC,Loaders,New Warehouse,B,NIGHT,12036,2024,3
+2024-04-09,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.56,1296.36,Loading,Forklift,New Warehouse,A,NIGHT,12045,2024,4
+2024-04-10,681232,Balozi Lager    500ml RET 25X01 LOCAL,5.0,11522.79,Loading,Forklift,New Warehouse,A,OFF,12044,2024,4
+2024-04-12,762947,White Cap Lager 500ml RET 25X01,0.04,92.62,PVC,Loaders,New Warehouse,A,DAY,12048,2024,4
+2024-04-16,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,Loading,Loaders,New Warehouse,B,DAY,12051,2024,4
+2024-04-17,703125,Tusker In Bottl 500ml RET 25X01 EXP,1.0,2346.26,Loading,Forklift,Old Warehouse,C,NIGHT,11485,2024,4
+2024-04-16,703125,Tusker In Bottl 500ml RET 25X01 EXP,1.0,2346.26,Loading,Forklift,Old Warehouse,C,NIGHT,11484,2024,4
+2024-04-18,703125,Tusker In Bottl 500ml RET 25X01 EXP,1.0,2346.26,Loading,Loaders,Old Warehouse,A,DAY,11487,2024,4
+2024-04-07,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.04,92.6,Loading,Loaders,New Warehouse,A,DAY,12042,2024,4
+2024-04-16,762947,White Cap Lager 500ml RET 25X01,10.0,23154.44,Loading,Forklift,New Warehouse,A,OFF,12049,2024,4
+2024-04-18,642754,Tusker Malt     330ml RET 25X01,0.04,72.4,Loading,Loaders,Old Warehouse,A,DAY,12053,2024,4
+2024-04-21,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,C,DAY,12054,2024,4
+2024-04-24,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,12056,2024,4
+2024-04-27,696875,Guinness FES    300ml RET 25X01,1.0,2126.27,Loading,Loaders,Old Warehouse,A,NIGHT,11491,2024,4
+2024-05-02,696894,Guinness FES    500ml RET 25X01,0.04,119.22,Loading,Loaders,New Warehouse,C,DAY,12060,2024,5
+2024-05-03,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.4,3226.38,Loading,Forklift,New Warehouse,A,NIGHT,12061,2024,5
+2024-05-04,696894,Guinness FES    500ml RET 25X01,0.56,1669.03,Loading,Forklift,Old Warehouse,B,DAY,11492,2024,5
+2024-05-18,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.48,1111.16,Offloading,Forklift,New Warehouse,C,OFF,12064,2024,5
+2024-05-20,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.08,185.19,Loading,Loaders,Old Warehouse,A,NIGHT,12401,2024,5
+2024-05-29,704768,Tusker Lite     330ml RET 25X01 EXP,0.8,1371.34,Loading,Loaders,Old Warehouse,C,NIGHT,12405,2024,5
+2024-05-29,696894,Guinness FES    500ml RET 25X01,0.08,238.43,PVC,Loaders,New Warehouse,C,NIGHT,12065,2024,5
+2024-05-30,681232,Balozi Lager    500ml RET 25X01 LOCAL,4.0,9218.23,Loading,Forklift,Old Warehouse,A,DAY,12406,2024,5
+2024-05-10,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.52,1220.06,Loading,Loaders,Old Warehouse,C,NIGHT,11496,2024,5
+2024-05-18,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.28,648.18,Loading,Loaders,Old Warehouse,B,NIGHT,11494,2024,5
+2024-05-18,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.76,1751.46,Loading,Loaders,Old Warehouse,B,NIGHT,11498,2024,5
+2024-06-05,762947,White Cap Lager 500ml RET 25X01,0.8,1852.36,Offloading,Forklift,New Warehouse,A,DAY,12073,2024,6
+2024-06-05,696894,Guinness FES    500ml RET 25X01,0.16,476.87,Loading,Loaders,New Warehouse,A,DAY,12072,2024,6
+2024-06-04,726668,Tusker Cdr in B 500ml RET 25X01 LOCAL,0.04,141.5,PVC,Loaders,New Warehouse,B,DAY,12070,2024,6
+2024-06-06,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,12076,2024,6
+2024-06-01,704768,Tusker Lite     330ml RET 25X01 EXP,13.0,22284.31,PVC,Loader,Old Warehouse,C,DAY,12410,2024,6
+2024-06-07,762947,White Cap Lager 500ml RET 25X01,0.36,833.56,Loading,Forklift,New Warehouse,A,NIGHT,12080,2024,6
+2024-06-09,762947,White Cap Lager 500ml RET 25X01,1.56,3612.09,Loading,Forklift,New Warehouse,A,OFF,12083,2024,6
+2024-06-12,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.04,92.6,Loading,Forklift,New Warehouse,A,DAY,12089,2024,6
+2024-06-12,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,12087,2024,6
+2024-06-08,762947,White Cap Lager 500ml RET 25X01,0.04,92.62,Loading,Forklift,New Warehouse,C,DAY,12082,2024,6
+2024-06-12,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,Loading,Loaders,New Warehouse,A,DAY,12088,2024,6
+2024-06-13,696894,Guinness FES    500ml RET 25X01,0.04,119.22,Loading,Loaders,New Warehouse,C,DAY,12091,2024,6
+2024-06-14,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.48,1111.16,Loading,Loaders,New Warehouse,C,DAY,12094,2024,6
+2024-06-15,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,B,DAY,12095,2024,6
+2024-06-16,642754,Tusker Malt     330ml RET 25X01,0.56,1013.62,Offloading,Forklift,New Warehouse,C,NIGHT,12093,2024,6
+2024-06-17,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.64,1474.92,Offloading,Forklift,New Warehouse,A,DAY,12097,2024,6
+2024-06-19,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,B,OFF,12099,2024,6
+2024-06-18,791190,Tusker Cider    500ml RET 25X01 NCP24,0.04,142.59,Loading,Loaders,New Warehouse,A,DAY,12098,2024,6
+2024-06-14,663869,Tusker Lite     330ml RET 25X01 LITE,1.4,2442.16,Shunting,Forklift,Old Warehouse,A,NIGHT,12417,2024,6
+2024-06-21,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.32,750.8,Loading,Loaders,Old Warehouse,C,NIGHT,12418,2024,6
+2024-06-22,704768,Tusker Lite     330ml RET 25X01 EXP,0.36,617.1,Loading,Loaders,Old Warehouse,B,DAY,12419,2024,6
+2024-06-23,704768,Tusker Lite     330ml RET 25X01 EXP,0.16,274.27,Loading,Loaders,Old Warehouse,A,DAY,12421,2024,6
+2024-06-12,786887,Pilsner         300ml RET 25X01 7%,0.16,273.3,Offloading,Forklift,New Warehouse,A,DAY,12086,2024,6
+2024-06-19,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.4,3226.38,Unstacking,Forklift,New Warehouse,A,NIGHT,12100,2024,6
+2024-06-21,696894,Guinness FES    500ml RET 25X01,3.84,11444.78,Collapsing Load,Towtruck,New Warehouse,A,OFF,12074,2024,6
+2024-06-27,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.48,1126.21,Loading,Loaders,Old Warehouse,C,NIGHT,12425,2024,6
+2024-06-27,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.6,1407.76,Loading,Loaders,Old Warehouse,C,NIGHT,12426,2024,6
+2024-06-26,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.36,844.65,Loading,Loaders,Old Warehouse,A,NIGHT,12423,2024,6
+2024-06-29,675369,Tusker Malt In  330ml RET 25X01 EXPORT,0.16,284.13,Loading,Loaders,Old Warehouse,B,NIGHT,12428,2024,6
+2024-07-01,791218,Tusker In Bottl 500ml RET 25X01 NCP24,0.04,93.96,Loading,Loaders,Old Warehouse,C,DAY,12429,2024,7
+2024-06-29,675369,Tusker Malt In  330ml RET 25X01 EXPORT,1.0,1775.79,Loading,Forklift,Old Warehouse,B,NIGHT,12427,2024,6
+2024-07-05,704768,Tusker Lite     330ml RET 25X01 EXP,0.04,68.57,Loading,Loaders,New Warehouse,A,DAY,10801,2024,7
+2024-07-05,791218,Tusker In Bottl 500ml RET 25X01 NCP24,0.4,939.6,Unsupported,Forklift,Old Warehouse,B,NIGHT,12434,2024,7
+2024-07-05,704768,Tusker Lite     330ml RET 25X01 EXP,0.12,205.7,Loading,Loaders,Old Warehouse,B,NIGHT,12433,2024,7
+2024-07-06,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.48,1126.21,Loading,Loaders,Old Warehouse,B,NIGHT,12432,2024,7
+2024-07-06,681232,Balozi Lager    500ml RET 25X01 LOCAL,2.0,4609.12,Loading,Forklift,Old Warehouse,A,DAY,12437,2024,7
+2024-07-06,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.76,1751.46,Loading,Forklift,Old Warehouse,A,DAY,12436,2024,7
+2024-07-08,791218,Tusker In Bottl 500ml RET 25X01 NCP24,0.52,1221.48,Loading,Loaders,New Warehouse,A,NIGHT,10807,2024,7
+2024-07-08,696894,Guinness FES    500ml RET 25X01,0.08,238.43,Loading,Loaders,New Warehouse,C,DAY,10805,2024,7
+2024-07-08,791206,Tusker Lite     330ml RET 25X01 NCP24,0.04,70.83,Loading,Loaders,New Warehouse,C,DAY,10806,2024,7
+2024-07-12,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.28,648.18,Loading,Loaders,New Warehouse,A,DAY,12438,2024,7
+2024-07-12,791218,Tusker In Bottl 500ml RET 25X01 NCP24,1.4,3288.61,Loading,Forklift,New Warehouse,A,DAY,12439,2024,7
+2024-07-15,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,Loading,Loaders,New Warehouse,B,DAY,10808,2024,7
+2024-07-16,675369,Tusker Malt In  330ml RET 25X01 EXPORT,0.32,568.25,Loading,Loaders,Old Warehouse,B,DAY,12440,2024,7
+2024-07-16,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.48,1106.19,Loading,Forklift,New Warehouse,C,NIGHT,10809,2024,7
+2024-07-18,762947,White Cap Lager 500ml RET 25X01,0.32,740.94,Loading,Forklift,New Warehouse,A,DAY,10810,2024,7
+2024-07-19,704768,Tusker Lite     330ml RET 25X01 EXP,0.56,959.94,Loading,Loaders,Old Warehouse,A,NIGHT,12444,2024,7
+2024-07-22,696906,Guinness FES    500ml RET 25X01 DEFCO,1.08,3178.35,Unstacking,Forklift,New Warehouse,C,NIGHT,10813,2024,7
+2024-07-22,696906,Guinness FES    500ml RET 25X01 DEFCO,1.28,3766.93,Unstacking,Forklift,New Warehouse,C,NIGHT,10811,2024,7
+2024-07-24,704768,Tusker Lite     330ml RET 25X01 EXP,0.04,68.57,Loading,Loaders,Old Warehouse,B,NIGHT,12447,2024,7
+2024-07-25,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.64,1501.61,Loading,Loaders,Old Warehouse,A,NIGHT,12452,2024,7
+2024-07-25,704768,Tusker Lite     330ml RET 25X01 EXP,0.08,137.13,Loading,Loaders,Old Warehouse,C,DAY,12449,2024,7
+2024-07-25,704768,Tusker Lite     330ml RET 25X01 EXP,0.32,548.54,Loading,Loaders,Old Warehouse,A,NIGHT,12451,2024,7
+2024-07-26,704768,Tusker Lite     330ml RET 25X01 EXP,0.04,68.57,PVC,Loaders,New Warehouse,C,DAY,10812,2024,7
+2024-07-27,696894,Guinness FES    500ml RET 25X01,7.0,20862.89,Unstacking,Forklift,New Warehouse,B,DAY,10815,2024,7
+2024-07-29,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.4,3226.38,Shunting,Forklift,New Warehouse,A,DAY,10816,2024,7
+2024-07-30,696894,Guinness FES    500ml RET 25X01,0.36,1072.95,Loading,Loaders,New Warehouse,A,DAY,10819,2024,7
+2024-07-30,791190,Tusker Cider    500ml RET 25X01 NCP24,0.08,285.18,Loading,Loaders,New Warehouse,A,DAY,10818,2024,7
+2024-07-31,642754,Tusker Malt In  330ml RET 25X01 local,0.92,1665.24,Loading,Forklift,New Warehouse,A,NIGHT,10821,2024,7
+2023-07-31,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.56,1313.91,Loading,Forklift,Old Warehouse,C,DAY,12460,2023,7
+2024-07-31,762947,White Cap Lager 500ml RET 25X01,2.0,4630.89,Loading,Forklift,New Warehouse,A,NIGHT,10820,2024,7
+2024-07-30,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.32,750.8,Loading,Loaders,Old Warehouse,B,NIGHT,12457,2024,7
+2024-08-03,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.04,92.18,PVC,Loaders,New Warehouse,B,DAY,10823,2024,8
+2024-08-03,791209,Tusker Malt     330ml RET 25X01 NCP24,0.04,72.62,PVC,Loaders,New Warehouse,B,DAY,10822,2024,8
+2024-08-05,704768,Tusker Lite     330ml RET 25X01 EXP,0.16,274.27,Loading,Loaders,Old Warehouse,B,NIGHT,12462,2024,8
+2024-08-06,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.16,370.39,Loading,Loaders,Old Warehouse,C,DAY,12464,2024,8
+2024-08-08,791218,Tusker In Bottl 500ml RET 25X01 NCP24,1.0,2349.01,Loading,Forklift,New Warehouse,C,NIGHT,10835,2024,8
+2024-08-09,696894,Guinness FES    500ml RET 25X01,0.92,2741.98,Poor Stacking,Forklift,New Warehouse,B,DAY,10834,2024,8
+2024-08-06,762947,White Cap Lager 500ml RET 25X01,1.0,2315.44,Loading,Forklift,New Warehouse,A,NIGHT,10826,2024,8
+2024-08-07,792278,Tusker Ndimu 25 300ml RET 25X01 RET NCP,0.52,902.65,Unstacking,Forklift,New Warehouse,A,NIGHT,10828,2024,8
+2024-08-07,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.04,92.6,PVC,Loaders,Old Warehouse,C,DAY,12465,2024,8
+2024-08-08,696894,Guinness FES    500ml RET 25X01,0.72,2145.9,Offloading,Forklift,New Warehouse,B,DAY,10829,2024,8
+2024-08-08,762947,White Cap Lager 500ml RET 25X01,1.0,2315.44,Offloading,Forklift,New Warehouse,B,DAY,10830,2024,8
+2024-08-06,716077,Allsopps Lager  500ml RET 25X01 NEW LOOK,1.96,4551.11,Shunting,Towtruck,New Warehouse,C,DAY,10825,2024,8
+2024-08-12,716077,Allsopps Lager  500ml RET 25X01 SHEEN,5.68,13188.92,Loading,Forklift,Isanda,A,NIGHT,12601,2024,8
+2024-08-07,696894,Guinness FES    500ml RET 25X01,0.56,1669.03,Shunting,Forklift,Old Warehouse,C,DAY,12448,2024,8
+2024-08-08,696894,Guinness FES    500ml RET 25X01,0.56,1669.03,Unsupported,Sorters,Old Warehouse,C,NIGHT,12467,2024,8
+2024-08-12,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.8,1843.65,Loading,Forklift,New Warehouse,A,NIGHT,10839,2024,8
+2024-08-12,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.04,92.6,Loading,Loaders,New Warehouse,A,NIGHT,10842,2024,8
+2024-08-12,663869,Tusker Lite     330ml RET 25X01 LITE,0.12,209.33,Loading,Loaders,New Warehouse,C,DAY,10838,2024,8
+2024-08-13,663869,Tusker Lite     330ml RET 25X01 LITE,5.0,8722.01,Loading,Forklift,New Warehouse,A,NIGHT,12471,2024,8
+2024-08-13,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.2,2765.47,Loading,Forklift,New Warehouse,A,NIGHT,10843,2024,8
+2024-08-14,677573,Pilsner Lager I 500ml RET 25X01 BOLD,0.56,1311.25,Loading,Forklift,New Warehouse,B,DAY,10844,2024,8
+2024-08-15,681232,Balozi LB       500ml RET 25X01 LOCAL,0.04,92.18,Loading,Loaders,New Warehouse,B,DAY,10846,2024,8
+2024-08-15,696906,Guinness FES    500ml RET 25X01 DEFCO,0.08,235.43,Loading,Loaders,New Warehouse,B,DAY,10847,2024,8
+2024-08-16,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,PVC,Loaders,New Warehouse,A,DAY,10850,2024,8
+2024-08-16,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.36,844.65,Loading,Loaders,Old Warehouse,B,NIGHT,12474,2024,8
+2024-08-19,791284,Snapp Dry c in  300ml RET 25X01 local,4.0,22678.44,Loading,Forklift,New Warehouse,A,NIGHT,12476,2024,8
+2024-08-21,681232,Balozi Lager    500ml RET 25X01 LOCAL,1.64,3779.47,Loading,Loaders,New Warehouse,C,NIGHT,14556,2024,8
+2024-08-21,696894,Guinness FES    500ml RET 25X01,0.04,119.22,Loading,Loaders,New Warehouse,B,DAY,14555,2024,8
+2024-08-21,663869,Tusker Lite     330ml RET 25X01 LITE,0.04,69.78,Loading,Loaders,New Warehouse,B,DAY,14553,2024,8
+2024-08-21,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.28,656.95,Unstacking,Forklift,New Warehouse,C,NIGHT,12477,2024,8
+2024-08-21,704768,Tusker Lite     330ml RET 25X01 EXP,0.56,959.94,Loading,Loaders,New Warehouse,C,NIGHT,12479,2024,8
+2024-08-22,762947,White Cap Lager 500ml RET 25X01,2.0,4630.89,Loading,Forklift,New Warehouse,B,NIGHT,14558,2024,8
+2024-08-23,703125,Tusker In Bottl 500ml RET 25X01 EXP,0.36,844.65,Loading,Loaders,Old Warehouse,B,NIGHT,12484,2024,8
+2024-08-23,791206,Tusker Lite     330ml RET 25X01 NCP24,0.04,70.83,Loading,Loaders,New Warehouse,B,NIGHT,14560,2024,8
+2024-08-27,791206,Tusker Lite     330ml RET 25X01 NCP24,0.24,424.99,Loading,Forklift,New Warehouse,C,NIGHT,14564,2024,8
+2024-08-27,696894,Guinness FES    500ml RET 25X01,0.36,1072.95,Loading,Forklift,New Warehouse,C,NIGHT,14563,2024,8
+2024-08-27,677573,Pilsner Lager I 500ml RET 25X01 BOLD,1.0,2341.52,Loading,Forklift,New Warehouse,C,NIGHT,14565,2024,8
+2024-08-29,675369,Tusker Malt In  330ml RET 25X01 EXPORT,0.2,355.16,Loading,Loaders,Old Warehouse,A,DAY,12488,2024,8
+2024-08-29,642754,Tusker Malt In  330ml RET 25X01 local,0.08,144.8,PVC,Loaders,New Warehouse,A,DAY,14567,2024,8
+2024-08-30,762947,White Cap Lager 500ml RET 25X01,0.96,2222.83,Loading,Forklift,New Warehouse,C,DAY,14570,2024,8
+2024-08-30,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.04,92.6,PVC,Loaders,New Warehouse,C,DAY,14571,2024,8
+2024-08-29,762947,White Cap Lager 500ml RET 25X01,1.0,2315.44,Loading,Forklift,New Warehouse,B,NIGHT,14566,2024,8
+2024-08-29,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,2.84,6574.38,Loading,Forklift,New Warehouse,B,NIGHT,14569,2024,8
+2024-01-09,758963,Guin Smth Btl   500ml RET 25X01,0.04,113.43,PVC,Loaders,New Warehouse,B,OFF,14572,2024,1
+2024-01-09,730510,Tusker In Bottl 500ml RET 25X01 LIMITED,0.08,185.19,Loading,Loaders,New Warehouse,C,DAY,14573,2024,1
+2024-01-09,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.92,2120.19,Loading,Loaders,New Warehouse,C,DAY,14575,2024,1
+2024-01-09,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.24,553.09,Loading,Loaders,New Warehouse,C,DAY,14576,2024,1
+2024-05-09,791206,Tusker Lite     330ml RET 25X01 NCP24,0.04,70.83,PVC,Loaders,New Warehouse,A,NIGHT,14577,2024,5
+2024-05-09,642754,Tusker Malt In  330ml RET 25X01 local,0.04,72.4,PVC,Loaders,New Warehouse,A,NIGHT,14577,2024,5
+2024-06-09,730510,Tusker In Bottl 500ml RET 25X01 LOCAL,0.16,370.39,Loading,Loaders,New Warehouse,A,OFF,14580,2024,6
+2024-08-09,681232,Balozi LB       500ml RET 25X01 LOCAL,0.64,1474.92,Offloading,Forklift,New Warehouse,B,DAY,14584,2024,8
+2024-08-09,675369,Tusker Malt In  330ml RET 25X01 EXPORT,0.04,71.03,Loading,Loaders,Old Warehouse,C,NIGHT,12487,2024,8
+2024-08-09,704768,Tusker Lite     330ml RET 25X01 EXP,0.28,479.97,Loading,Loaders,Old Warehouse,B,DAY,12492,2024,8
+2024-04-09,663562,Guinness FES    300ml RET 25X01 S.SUDAN,0.16,334.2,Loading,Loaders,Old Warehouse,A,NIGHT,12491,2024,4
+2024-08-09,762947,White Cap Lager 500ml RET 25X01,0.6,1389.27,Unstacking,Forklift,Old Warehouse,C,NIGHT,12493,2024,8
+2024-07-09,791206,Tusker Lite     330ml RET 25X01 NCP24,0.04,70.83,PVC,Loaders,New Warehouse,B,DAY,14582,2024,7
+2024-07-09,681232,Balozi Lager    500ml RET 25X01 LOCAL,0.28,645.28,Loading,Loaders,New Warehouse,B,DAY,14583,2024,7
